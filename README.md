@@ -1,4 +1,4 @@
-![](https://github.com/rachmaapriyani/rachmaapriyani/blob/main/banner.jpg)
+![](https://github.com/rachmaapriyani/rachmaapriyani/blob/main/header.png)
 
 ## Hi There, I'm Rachma! 👋
 
