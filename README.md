@@ -11,6 +11,8 @@
 
 ## 📑 Latest Projects
 
+- [Flight Price Prediction](https://github.com/rachmaapriyani/FlightPricePrediction)
+- [Detecting Fake News ](https://github.com/rachmaapriyani/DetectingFakeNewsWithPython)
 - [Webscrapping using BeautifulSoup](https://github.com/rachmaapriyani/capstone-webscraping-beautifulsoup)
 
 ➡️ [More projects...](https://github.com/rachmaapriyani?tab=repositories)
